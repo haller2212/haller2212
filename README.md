@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haller2212
+- 👋 Hi, I’m @KORABLIK
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning javarush
 - 📫 How to reach me KORABLIK#1608 (discord)
